@@ -11,7 +11,7 @@
    cd DiscordBot
 
    Mac/Unix example:
-   cd ~/Documents
+   cd ~/
    mkdir DiscordBot
    cd DiscordBot
 
@@ -45,4 +45,5 @@
 4. Add your bot to any Discord server (the installation link can be found in the
    Developer Portal), then run the command /badge
 5. Click "Claim".
+
 6. Wait up to 24 hours for your badge to appear.
