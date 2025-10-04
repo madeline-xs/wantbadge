@@ -39,11 +39,12 @@
 ================================= FINISHING UP =================================
 1. Open PowerShell/Terminal again and return to the folder where your bot is
    located.
-2. Type "npm start".
-3. If you completed all steps correctly, you should see a message that says
+2. Type "npm i"
+3. Type "node start"
+4. If you completed all steps correctly, you should see a message that says
    "Connected to Discord. Logged in as [your bot's username and tag]."
-4. Add your bot to any Discord server (the installation link can be found in the
+5. Add your bot to any Discord server (the installation link can be found in the
    Developer Portal), then run the command /badge
-5. Click "Claim".
+6. Click "Claim".
+7. Wait up to 24 hours for your badge to appear.
 
-6. Wait up to 24 hours for your badge to appear.
