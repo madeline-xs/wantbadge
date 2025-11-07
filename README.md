@@ -1,6 +1,4 @@
-===============================================================================
 # PREPARATION
-===============================================================================
 1. Download and install Node.js:
    https://nodejs.org/en
 
@@ -16,9 +14,7 @@
     - Download "package.json" from this github reposity
     - Move "package.json" to the folder you created
 
-===============================================================================
 # CREATE YOUR BOT
-===============================================================================
 1. Go to the Discord Developer Portal:
    https://discord.com/developers/applications
 2. Name your bot
@@ -42,10 +38,7 @@
    meet all of the requirements (except having run at least one command):
    https://discord.com/developers/active-developer
 
-===============================================================================
 # RUN YOUR BOT
-===============================================================================
-
 1. Using windows:
     - Open Powershell if you closed it
     - Go to the directory where you created your bot,
@@ -63,6 +56,4 @@
 4. Return to https://discord.com/developers/active-developer
 5. Click "Claim" (it may take up to 24 hours for this to appear)
 
-===============================================================================
 # CONGRATULATIONS, YOU DID IT
-===============================================================================
