@@ -1,4 +1,4 @@
-# PREPARATION
+# Preparation
 1. Download and install Node.js:
    https://nodejs.org/en
 
@@ -14,7 +14,7 @@
     - Download "package.json" from this github reposity
     - Move "package.json" to the folder you created
 
-# CREATE YOUR BOT
+# Create Your Bot
 1. Go to the Discord Developer Portal:
    https://discord.com/developers/applications
 2. Name your bot
@@ -33,13 +33,8 @@
 3. Open "package.json"
 4. Replace the phrase YOUR_CLIENT_ID with your real client ID from the portal
 
-## Badge Page
-1. Go to the Discord Active Developer badge page and confirm that you
-   meet all of the requirements (except having run at least one command):
-   https://discord.com/developers/active-developer
-
-# RUN YOUR BOT
-1. Using windows:
+# Run Your Bot
+1. Using Windows:
     - Open Powershell if you closed it
     - Go to the directory where you created your bot,
       e.g. cd C:\Users\your-username\Desktop\DiscordBot
@@ -53,7 +48,7 @@
     - Wait for the terminal to display a message that your bot is online
 3. Add your bot to any Discord server (the installation link can be found
    in the Developer Portal), then run the command **/badge**
-4. Return to https://discord.com/developers/active-developer
-5. Click "Claim" (it may take up to 24 hours for this to appear)
+4. Navigate to https://discord.com/developers/active-developer
+5. Observe that the Active Developer Badge has been discontinued
 
 # CONGRATULATIONS, YOU DID IT
